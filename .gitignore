@@ -12,3 +12,5 @@ build/
 site/
 src/wagtailbakery/build/
 src/wagtailbakery/tests/public/
+dist
+.pytest_cache
